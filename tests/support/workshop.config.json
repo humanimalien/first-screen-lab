@@ -1,0 +1,46 @@
+{
+  "title": "Полоса препятствий для первого экрана",
+  "brand": "Практикум первого экрана",
+  "course": "Дизайн интерфейсов",
+  "referenceUrl": "https://first-screen-lab.humanimalien.chatgpt.site/example/",
+  "lectureUrl": "https://mediiia.com/project/2-3-zhelanie-i-adresat-auditoriya-stupen--a588d4493b9943d0b4b6bb65cdb50f71",
+  "groups": [
+    {
+      "id": "09",
+      "name": "Группа А"
+    },
+    {
+      "id": "10",
+      "name": "Группа Б"
+    }
+  ],
+  "participants": [
+    {
+      "id": "student-anna",
+      "name": "Анна Учебная",
+      "group": "09"
+    },
+    {
+      "id": "student-boris",
+      "name": "Борис Примеров",
+      "group": "10"
+    },
+    {
+      "id": "student-vera",
+      "name": "Вера Эскизная",
+      "group": "10"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "teacher-a",
+      "name": "Преподаватель",
+      "group": "09"
+    },
+    {
+      "id": "teacher-b",
+      "name": "Преподаватель",
+      "group": "10"
+    }
+  ]
+}
